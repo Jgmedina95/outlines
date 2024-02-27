@@ -30,7 +30,7 @@ dependencies = [
    "numpy",
    "cloudpickle",
    "diskcache",
-   "pydantic>=2.0",
+   "pydantic",
    "scipy",
    "torch>=2.1.0",
    "numba",
